@@ -26,13 +26,13 @@
 ###
 
 <p align="left">
-  Nice to meet you! My name is Tham Joe Ming! A enthusiastic computer science student specialized in software engineering currently studying in Multimedia University (MMU).
+  Nice to meet you! My name is Tham Joe Ming! An enthusiastic computer science student specialized in software engineering currently studying in Multimedia University (MMU).
   <br><br>
-  - 🔭 I’m working as ...
+  - 🔭 I’m currently studying in Multimedia University, Final Year Second Trimester
   <br>
-  - 📚 I'm currently learning ...
+  - 📚 I'm currently learning Mobile App Development / Visual Information Processing
   <br>
-  - ⚡ In my free time I ...
+  - ⚡ In my free time I relax and play video games
 </p>
 
 <br />

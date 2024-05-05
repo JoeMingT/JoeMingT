@@ -32,7 +32,7 @@
   <br>
   - 📚 I'm currently learning Mobile App Development / Visual Information Processing
   <br>
-  - ⚡ In my free time I relax and play video games
+  - ⚡ In my free time I play and practice piano or relax and play video games / watch shows
 </p>
 
 <br />

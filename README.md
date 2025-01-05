@@ -31,7 +31,7 @@
   <br><br>
   - 🔭 I’m currently a fresh graduate from Multimedia University!
   <br>
-  - 📚 I'm currently learning about Linux and Operating Systems!
+  - 📚 I'm currently learning about Linux, Operating Systems and Dockers!
   <br>
   - ⚡ In my free time, I play and practice piano or relax and play video games / watch shows!
 </p>

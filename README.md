@@ -1,5 +1,5 @@
 
-<h1>👋 Meet Me!</h1>
+<h1 align="center">👋 Meet Me!</h1>
 
 ![Profile_Header_Image](https://github.com/JoeMingT/JoeMingT/assets/122090861/ae125b8c-d534-447a-8e14-a962775143e0)
 
@@ -14,9 +14,10 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&labelColor=%230077B5&color=%230077B5&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjoe-ming-tham-848768287%2F" />
-  <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&labelColor=%23fb8b23&color=%23fb8b23&link=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Fview%3Dcm%26fs%3D1%26to%3Dthamjoeming%40gmail.com"  />
+  <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&labelColor=%23fb8b23&color=%23fb8b23&link=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Fview%3Dcm%26fs%3D1%26to%3Dthamjoeming.business%40gmail.com"  />
 </div>
 
+<br />
 <br />
 
 ###
@@ -26,13 +27,13 @@
 ###
 
 <p align="left">
-  Nice to meet you! My name is Tham Joe Ming! An enthusiastic computer science student specialized in software engineering currently studying in Multimedia University (MMU).
+  Nice to meet you! My name is Tham Joe Ming! An enthusiastic computer science student graduate specialized in software engineering! I am a fresh graduate from Multimedia University (MMU).
   <br><br>
-  - 🔭 I’m currently studying in Multimedia University, Final Year Second Trimester
+  - 🔭 I’m currently a fresh graduate from Multimedia University!
   <br>
-  - 📚 I'm currently learning Mobile App Development / Visual Information Processing
+  - 📚 I'm currently learning about Linux and Operating Systems!
   <br>
-  - ⚡ In my free time I play and practice piano or relax and play video games / watch shows
+  - ⚡ In my free time, I play and practice piano or relax and play video games / watch shows!
 </p>
 
 <br />
